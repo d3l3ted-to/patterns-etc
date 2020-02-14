@@ -1,0 +1,17 @@
+{
+    "name": "oleg/test",
+    "description": "test package for patterns",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oleg Trukhachev",
+            "email": "oleg.t@bilimmail.kz"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    }
+}

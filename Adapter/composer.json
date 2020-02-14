@@ -1,0 +1,9 @@
+{
+    "name": "oleg/adapter",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
